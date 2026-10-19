@@ -1,0 +1,4 @@
+[submodule "posit"]
+	path = services/posit
+	url = https://github.com/lenticule-science/posit.git
+	branch = main
