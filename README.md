@@ -8,3 +8,10 @@
 <!-- 561-group-standards:badges:end -->
 
 Predicating on the EVM: the subject-predicate-object cell generated after articulation.
+
+## Code
+
+This repository holds section data only. The executable code that used to live here moved to
+[`red-cup-engineering/predicate`](https://github.com/red-cup-engineering/predicate) (received 2026-10-24 from
+`lenticule-science/predicate@19e68285f997`). That engine reads this data from `SECTION_ROOT` (default: its current working directory),
+so point `SECTION_ROOT` at a checkout of this repository.
